@@ -1,4 +1,10 @@
+import os
+import obj
+import pygame
 
+
+def main():
+  print('Hello World')
 
 if __name__ == "__main__":
-  print('Hello World')
+  main()
